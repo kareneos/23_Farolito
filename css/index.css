@@ -109,13 +109,13 @@ nav ul li a{
 .rana{
 	border-bottom: dashed 2px #ff6a49;
 	padding-bottom:5%;
+	margin: 0% 20%;
 }
 .botnar{
 	color: white;
 	font-size: 1em;
 	background-color: #ff6a49;
-	width: 70%;
-	height: 70px;
+	width: 30%;
 	margin-top: 20%;
 	margin-bottom: 10%;	
 }
