@@ -147,6 +147,9 @@ nav ul li a{
 	height: 1200px;
 	background-size: 100% 100%;
 }
+#listaoportunidades{
+	margin-top: 15%;
+}
 .razu{
 	border-bottom: solid 2px #28c5e6;
 	padding-bottom:3%;
@@ -172,8 +175,7 @@ nav ul li a{
 }
 .ragris{
 	border-bottom: dashed 1px #989898;
-	margin-top: 5%;
-	margin-bottom: 5%;
+	margin: 5% 10%;
 }
 	/*blog*/
 .cuama{
