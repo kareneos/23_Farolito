@@ -1,0 +1,229 @@
+	/*Inicio*/
+header
+	{
+	background: url("../img/img-home.png");
+	background-size: 100% 100%;
+}
+nav ul{
+	list-style-type: none;
+	float: right;
+	margin-right: -20%;
+}
+nav ul li{
+	display: inline-block;
+	
+	margin-top: 5%;
+	margin-bottom: 20%
+}
+nav ul li a{
+	color: #989898;
+}
+.botgri{
+	background-color: #4d4545;
+}
+.logo{
+	padding-left: 88%;
+	margin-bottom: 5%;
+}
+.pazul{
+	padding-left: 70%;
+	font-size: 2em;
+	line-height: 1.5;
+	margin-bottom: 5%;
+	margin-right: -30%;
+}
+.pgris{
+	float: right;
+	line-height: 1.5;
+	font-size: 1em;
+	margin-right: -20%;
+	margin-bottom: 5%;
+}
+.botna{
+	font-size: 1em;
+	background-color: #ff6a49;
+	width: 25%;
+	height: 70px;
+	margin-left: 90%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+	/*metodologia*/
+.metodologia{
+	font-size: 1.5em;
+	margin-bottom: 5%;
+}
+.circulo{
+	border-radius: 50%;
+	margin-top: 5%;
+	margin-bottom: 10%;
+}
+.borde{
+	border-radius: 50%;
+	border:5px #ff6a49 dashed;
+	size: 100%;
+	padding-top: 15%;
+	line-height: 1.5;
+	font-size: 1em;
+	background-image: url("../ilustraciones-personajes/ilustracion-26.png");
+	background-repeat: no-repeat;
+	background-position: bottom;
+	height: 400px;
+	width: 90%;
+}
+.borde h3{
+	padding: 0% 17%;
+}
+#analisiscont{
+	padding: 0% 37%;
+}
+.botazu{
+	background-color: #4FC5E6;
+	margin-top:7%;
+	margin-bottom: 7%;
+	width: 30%;
+	font-size: 1em;
+}
+.ladocirculo{
+	padding-top: 25%;
+}
+	/*postulantes*/
+#postulantes{
+	background-color: #28C5E6;
+	background-size: 100% 100%;
+	line-height: 1.5;
+}
+#postulantes img{
+	border-radius: 50%;
+}	
+.num{
+	width: 100px;
+	height: 100px;
+}
+.rabla{
+	border-bottom: dashed 2px white;
+	margin-top: 8%;
+	padding-bottom: 5%;
+}
+	/*empresas*/
+.rana{
+	border-bottom: dashed 2px #ff6a49;
+	padding-bottom:5%;
+}
+.botnar{
+	color: white;
+	font-size: 1em;
+	background-color: #ff6a49;
+	width: 70%;
+	height: 70px;
+	margin-top: 20%;
+	margin-bottom: 10%;	
+}
+	/*centro educativo*/
+.educativo{
+	background-color: #77d248;
+	width: 100%;
+	height: 100%;
+	color: white;
+}
+.raba{
+	border-bottom: dashed 2px white;
+	padding-bottom:5%;
+}
+.botbla{
+	color: white;
+	font-size: 1em;
+	background-color: #77d248;
+	width: 70%;
+	height: 70px;
+	margin-top: 20%;
+	margin-bottom: 10%;	
+	border:white solid;
+}
+	/*lista de oportunidades*/
+.oportunidades{
+	background:url("../img/img-03.png");
+	width: 100%;
+	height: 1200px;
+	background-size: 100% 100%;
+}
+.razu{
+	border-bottom: solid 2px #28c5e6;
+	padding-bottom:3%;
+	text-align: left;
+	margin-left: 30%;
+	margin-top: 3%;
+}
+.oferta{
+	text-align: left;
+	margin-left: 30%;
+	color: #989898;
+	line-height: 1.5;
+}
+.cuana{
+	color: #ff6a49;
+	width: 100px;
+	height: 50px;
+	border:solid #ff6a49;
+	text-align: center;
+	border-radius: 20%;
+	padding: 3%;
+	margin-top: 40%;
+}
+.ragris{
+	border-bottom: dashed 1px #989898;
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+	/*blog*/
+.cuama{
+	width: 250px;
+	height: 200px;
+	background-color: #ffc200;
+	color: white;
+	display: block;
+	margin: auto;
+	padding-top: 10%;
+	line-height: 1.5;
+}	
+.cuagri{
+	width: 250px;
+	height: 200px;
+	background-color: #4d4545;
+	color: #989898;
+	display: block;
+	margin: auto;
+	padding-top: 10%;
+	line-height: 1.5;
+}
+	/*Consulta*/
+.consulta{
+	background-color: #989898;
+	width: 100%;
+	height: 500px;
+	color: #4d4545;
+}	
+input{
+	width: 32%;
+	height: 30px;
+	display: block;
+	margin: auto;
+}
+textarea{
+	resize:none;
+	display: block;
+	margin: auto;
+}
+	/*footer*/
+footer{
+	background-color: #4d4545;
+	color: #989898;
+	width: 100%;
+	padding-top: 2%;
+}	
+.redes{
+	display: inline-block;
+	position: relative;
+	float: left;
+	margin-left: 2%;
+}
